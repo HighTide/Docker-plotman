@@ -9,7 +9,7 @@ Docker container for CHIA plotman by ericaltendorf https://github.com/ericaltend
 
 
 # Config example
-```
+```yml
 # Default/example plotman.yaml configuration file
 
 # Options for display and rendering
@@ -126,6 +126,6 @@ plotting:
         pool_pk: ...
 ```      
 
-#Find farmer_pk and pool_pk
+# Find farmer_pk and pool_pk
 cd /Applications/Chia.app/Contents/Resources/app.asar.unpacked/daemon
 ./chia keys show
