@@ -127,5 +127,5 @@ plotting:
 ```      
 
 # Find farmer_pk and pool_pk
-cd /Applications/Chia.app/Contents/Resources/app.asar.unpacked/daemon
-./chia keys show
+- cd /Applications/Chia.app/Contents/Resources/app.asar.unpacked/daemon
+- ./chia keys show
