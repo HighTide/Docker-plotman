@@ -1,5 +1,6 @@
 # Docker-plotman
 Docker container for CHIA plotman by ericaltendorf https://github.com/ericaltendorf/plotman
+The container is based on commit: 1876d4cbda73fb38584f95113a00f01af1e21704
 
 # Mountpoints
 - /root/.config/plotman/
